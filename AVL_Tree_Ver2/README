@@ -1,0 +1,9 @@
+#Implementation of the AVL Binary Search Tree Algorithm
+
+#Items are sorted according to rank, not key
+
+# Main Routines: 1) Insertion (implemented)
+	         2) Balancing (implemented)
+   		 3) Deletion (implemented)
+
+
