@@ -231,8 +231,10 @@ Case 3) B has two children:
         to pick the successor node from the sub-tree which would result in the least imbalance.)
 
 /////////////////////////////////////////////////////////////////////////////////////
+
 During actual implementation of this algorithm, it's more viable to just replace the 
 values stored inside B with the values of X to reflect the deletion.     
+
 //////////////////////////////////////////////////////////////////////////////////////
 
 *******************************
