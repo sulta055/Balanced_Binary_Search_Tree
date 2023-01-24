@@ -1,12 +1,10 @@
 # Implementation of AVL Binary Search Tree Algorithm in FORTRAN
 
-######################################
-#Some notes about Binary Search Trees#
-######################################
+# Some notes about Binary Search Trees:
 
 
 **************************************
-* The AVL Height Balancing Algorithm *
+* The AVL Height Balancing Algorithm 
 **************************************
 
  Definition:  A node in a binary search tree (BST)  is said to be balanced if the height difference between 
@@ -119,7 +117,7 @@
 
 
 *******************************
-* BST NODE DELETION algorithm.*
+* BST NODE DELETION algorithm.
 *******************************
 
 This algorithm can be used to delete a node from a BST (can be balanced or unbalanced). 
